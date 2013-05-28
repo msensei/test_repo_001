@@ -1,6 +1,6 @@
 # Django settings for from_repo_001 project.
 
-DEBUG = False
+DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
 ADMINS = (
